@@ -1,0 +1,68 @@
+[
+	{
+		"primero": "macarrones con salsa de tomate",
+		"segundo": "chuleta (cerdo) con patatas",
+		"postre": "pera",
+		"fechaDevolucion": "18/04/2020 14:57",
+		"idMenu": 0,
+		"idVale": 0,
+		"idBandeja": 0,
+		"fechaRecogida": "18/04/2020 14:20",
+		"bebida": "agua"
+	},
+	{
+		"primero": "macarrones con salsa de tomate",
+		"segundo": "merluza a la plancha",
+		"postre": "helado de chocolate",
+		"fechaDevolucion": "18/04/2020 19:10",
+		"idMenu": 0,
+		"idVale": 1,
+		"idBandeja": 1,
+		"fechaRecogida": "18/04/2020 18:50",
+		"bebida": "fantaLimon"
+	},
+	{
+		"primero": "macarrones a la boloñesa",
+		"segundo": "pechuga (pollo) con patatas",
+		"postre": "manzana",
+		"fechaDevolucion": "18/04/2020 19:12",
+		"idMenu": 0,
+		"idVale": 2,
+		"idBandeja": 2,
+		"fechaRecogida": "18/04/2020 18:52",
+		"bebida": "cocacola"
+	},
+	{
+		"primero": "ensalada con tomates",
+		"segundo": "chuleta (cerdo) con patatas",
+		"postre": "pera",
+		"fechaDevolucion": "18/04/2020 20:32",
+		"idMenu": 0,
+		"idVale": 3,
+		"idBandeja": 3,
+		"fechaRecogida": "18/04/2020 20:02",
+		"bebida": "agua"
+	},
+	{
+		"primero": "lentejas",
+		"segundo": "salmón cocido",
+		"postre": "helado de limón",
+		"fechaDevolucion": "19/04/2020 14:57",
+		"idMenu": 1,
+		"idVale": 4,
+		"idBandeja": 4,
+		"fechaRecogida": "19/04/2020 14:20",
+		"bebida": "agua"
+	},
+	{
+		"primero": "lentejas",
+		"segundo": "salmón cocido",
+		"postre": "helado de limón",
+		"fechaDevolucion": "19/04/2020 19:10",
+		"idMenu": 1,
+		"idVale": 4,
+		"idBandeja": 4,
+		"fechaRecogida": "19/04/2020 18:50",
+		"bebida": "fantaLimon"
+	}
+]

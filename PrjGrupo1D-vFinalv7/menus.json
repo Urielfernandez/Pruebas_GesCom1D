@@ -1,0 +1,77 @@
+[
+	{
+		"primeros": [
+			"macarrones con salsa de tomate",
+			"macarrones a la boloñesa",
+			"ensalada con tomates"
+		],
+		"fecha": "18/04/2020",
+		"segundos": [
+			"chuleta (cerdo) con patatas",
+			"pechuga (pollo) con patatas",
+			"merluza a la plancha"
+		],
+		"id": 0,
+		"bebidas": [
+			"agua",
+			"cocacola",
+			"fantaLimon",
+			"fantaNaranja"
+		],
+		"postres": [
+			"pera",
+			"manzana",
+			"helado de chocolate"
+		]
+	},
+	{
+		"primeros": [
+			"lentejas",
+			"caldo",
+			"sopa"
+		],
+		"fecha": "19/04/2020",
+		"segundos": [
+			"merluza a la plancha",
+			"lubina a la plancha",
+			"salmón cocido"
+		],
+		"id": 1,
+		"bebidas": [
+			"agua",
+			"cocacola",
+			"fantaLimon",
+			"fantaNaranja"
+		],
+		"postres": [
+			"helado de limón",
+			"fresas con nata",
+			"flan de huevo"
+		]
+	},
+	{
+		"primeros": [
+			"ensalada con tomates",
+			"lentejas",
+			"sopa"
+		],
+		"fecha": "28/04/2020",
+		"segundos": [
+			"salmón cocido",
+			"albóndigas",
+			"merluza a la plancha"
+		],
+		"id": 2,
+		"bebidas": [
+			"agua",
+			"cocacola",
+			"fantaLimon",
+			"fantaNaranja"
+		],
+		"postres": [
+			"pera",
+			"manzana",
+			"naranja"
+		]
+	}
+]

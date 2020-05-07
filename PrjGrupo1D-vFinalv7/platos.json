@@ -1,0 +1,110 @@
+[
+	{
+		"nombre": "macarrones con salsa de tomate",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "macarrones a la boloñesa",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "ensalada con tomates",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "lentejas",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "caldo",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "sopa",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "arroz a la cubana",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "arroz con pollo",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "chipirones",
+		"tipo": "primero"
+	},
+	{
+		"nombre": "chuleta (cerdo) con patatas",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "pechuga (pollo) con patatas",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "merluza a la plancha",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "lubina a la plancha",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "salmón cocido",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "albóndigas",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "escalope (cerdo)",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "alitas (pollo)",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "carrilleras (ternera)",
+		"tipo": "segundo"
+	},
+	{
+		"nombre": "pera",
+		"tipo": "postre"
+	},
+	{
+		"nombre": "manzana",
+		"tipo": "postre"
+	},
+	{
+		"nombre": "helado de chocolate",
+		"tipo": "postre"
+	},
+	{
+		"nombre": "helado de limón",
+		"tipo": "postre"
+	},
+	{
+		"nombre": "fresas con nata",
+		"tipo": "postre"
+	},
+	{
+		"nombre": "flan de huevo",
+		"tipo": "postre"
+	},
+	{
+		"nombre": "tarta de queso",
+		"tipo": "postre"
+	},
+	{
+		"nombre": "tarta helada",
+		"tipo": "postre"
+	},
+	{
+		"nombre": "naranja",
+		"tipo": "postre"
+	}
+]
