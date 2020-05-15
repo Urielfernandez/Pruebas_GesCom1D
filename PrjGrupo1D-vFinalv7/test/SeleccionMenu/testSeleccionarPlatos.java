@@ -60,6 +60,86 @@ class testSeleccionarPlatos {
 	}
 	
 	
+	@Test
+	@DisplayName("P-03-C2") 
+	void PO3_C2() {
+		//Arrange
+		Plato primero=null;
+		Plato segundo=new Plato( "escalope (cerdo)", "segundo");
+		Plato postre=new Plato( "naranja", "postre");
+		String bebida= "agua";
+
+			
+		//Assert
+		assertThrows(IllegalArgumentException.class, ()->{sm.seleccionarPlatos(primero, segundo, postre, bebida);}, "Fallo en los Argumentos introducidos");
+		
+	}
+	
+	
+	@Test
+	@DisplayName("P-03-C3") 
+	void PO3_C3() {
+		//Arrange
+		Plato primero=new Plato( "lentejas", "primero");
+		Plato segundo=null;
+		Plato postre=new Plato( "naranja", "postre");
+		String bebida= "agua";
+
+			
+		//Assert
+		assertThrows(IllegalArgumentException.class, ()->{sm.seleccionarPlatos(primero, segundo, postre, bebida);}, "Fallo en los Argumentos introducidos");
+		
+	}
+	
+	@Test
+	@DisplayName("P-03-C4") 
+	void PO3_C4() {
+		//Arrange
+		Plato primero=new Plato( "lentejas", "primero");
+		Plato segundo=new Plato( "escalope (cerdo)", "segundo");
+		Plato postre=null;
+		String bebida= "agua";
+
+			
+		//Assert
+		assertThrows(IllegalArgumentException.class, ()->{sm.seleccionarPlatos(primero, segundo, postre, bebida);}, "Fallo en los Argumentos introducidos");
+		
+	}
+	
+	@Test
+	@DisplayName("P-03-C5") 
+	void PO3_C5() {
+		//Arrange
+		Plato primero=new Plato( "lentejas", "primero");
+		Plato segundo=new Plato( "escalope (cerdo)", "segundo");
+		Plato postre=null;
+		String bebida= "agua";
+
+			
+		//Assert
+		assertThrows(IllegalArgumentException.class, ()->{sm.seleccionarPlatos(primero, segundo, postre, bebida);}, "Fallo en los Argumentos introducidos");
+		
+	}
+	
+	@Test
+	@DisplayName("P-03-C6") 
+	void PO3_C6() {
+		//Arrange
+		Plato primero=null;
+		Plato segundo=new Plato( "escalope (cerdo)", "segundo");
+		Plato postre=new Plato( "naranja", "postre");
+		String bebida= null;
+
+			
+		//Assert
+		assertThrows(IllegalArgumentException.class, ()->{sm.seleccionarPlatos(primero, segundo, postre, bebida);}, "Fallo en los Argumentos introducidos");
+		
+	}
+	
+	
+	
+	
+	
 	
 
 }
