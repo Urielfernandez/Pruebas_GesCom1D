@@ -96,7 +96,7 @@ public class Probador {
 		Factura factura=sm.seleccionarPlatos(primero,segundo,postre,bebida);
 		System.out.println(factura.getPrimero());}
 		catch(Exception e) {
-			
+			System.out.println("yeyou");
 		}
 		
 		
