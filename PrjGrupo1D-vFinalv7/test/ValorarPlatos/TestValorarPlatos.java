@@ -69,7 +69,7 @@ class TestValorarPlatos {
 		}catch(Exception e) {
 			fallo=true;
 		}
-		// Assert
+		//Assert
 		assertFalse(fallo,"Se ha producido una excepcion no esperada");
 	}
 
