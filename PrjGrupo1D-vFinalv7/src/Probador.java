@@ -88,7 +88,18 @@ public class Probador {
 		//EJEMPLOS DE USO SELECCIÓN MENÚ
 		IUSeleccionMenu sm=new SeleccionMenu();
 		//sm.verPlatosMenuDia();
-		//Factura factura=sm.seleccionarPlatos();
+		Plato primero=new Plato( "lentejas", "primero");
+		Plato segundo=new Plato( "escalope (cerdo)", "segundo");
+		Plato postre=new Plato( "naranja", "postre");
+		String bebida= "agua";
+		try {
+		Factura factura=sm.seleccionarPlatos(primero,segundo,postre,bebida);
+		System.out.println(factura.getPrimero());}
+		catch(Exception e) {
+			
+		}
+		
+		
 		
 		//EJEMPLO DE USO GESTION DE PAGOS
 		IUValoraciones v=new GestionPagosYCalificaciones();
