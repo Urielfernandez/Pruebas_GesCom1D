@@ -8,6 +8,7 @@ class testSimularComida {
 	@Test
 	void test() {
 		fail("Not yet implemented");
+		//una nueva pruebita
 	}
 
 }
